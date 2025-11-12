@@ -12,7 +12,6 @@ A full-stack food ordering application built with React and Node.js, featuring u
 - **User Authentication**: Register and login with secure JWT-based authentication
 - **Checkout**: Select delivery address using interactive map (Leaflet)
 - **Payment**: Secure payment processing with PayPal integration
-- **Order Tracking**: Track order status in real-time with order history
 - **Profile Management**: Update profile information and change password
 - **Order History**: View all past orders with status filters
 
@@ -62,7 +61,7 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/hatemAfli/restaurant-website.git
    cd projet
    ```
 
